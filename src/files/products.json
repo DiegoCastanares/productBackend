@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Kindle, ahora con luz frontal integrada, negro",
+    "price": "74.99",
+    "thumbnail": "https://m.media-amazon.com/images/I/61vE5CAZ2qL._AC_UL640_FMwebp_QL65_.jpg",
+    "id": 1
+  },
+  {
+    "title": "Nuevo Kindle Paperwhite (8 GB) | Ahora con una pantalla de 6,8\" y luz cálida ajustable, sin publicidad",
+    "price": "124.99",
+    "thumbnail": "https://m.media-amazon.com/images/I/61eGz0e6N+L._AC_UL640_FMwebp_QL65_.jpg",
+    "id": 2
+  },
+  {
+    "title": "Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 32 GB, wifi, grafito",
+    "price": "279.99",
+    "thumbnail": "https://m.media-amazon.com/images/I/81HvngjTo7L._AC_UL640_FMwebp_QL65_.jpg",
+    "id": 3
+  }
+]
